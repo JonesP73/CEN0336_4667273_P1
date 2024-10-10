@@ -1,0 +1,4 @@
+total 8
+drwxr-xr-x 3 jgspedreira jgspedreira 4096 Oct 10 10:49 CEN0336_4667273_P1
+-rwxr-xr-x 1 jgspedreira jgspedreira  233 Oct 10 11:09 bash_script.sh
+-rw-r--r-- 1 jgspedreira jgspedreira    0 Oct 10 11:10 lista_HOME.txt
